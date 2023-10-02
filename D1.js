@@ -12,9 +12,9 @@ REGOLE
 */
 /* -STRING : è una sequeza di caretteri e può essere alfanumerico.
 -NUMBER : è un tipo di dato nuerico , trattasi quindi di una sequenza di numeri, possono essere sia interi che decimali.
-BOOLEAN : è un tipo di dato che può avere solo due valori o VERO O FALSO quindi TRUE or FALSE.
-UNDEFINED : rappresenta un valore nullo , quindi l'assenza di un valore.
-NULL : è UN datatype che rilevo nelle variabili che ho dichiarato al quale però non ho ancora assegnato un valore.
+-BOOLEAN : è un tipo di dato che può avere solo due valori o VERO O FALSO quindi TRUE or FALSE.
+-UNDEFINED : rappresenta un valore nullo , quindi l'assenza di un valore.
+-NULL : è UN datatype che rilevo nelle variabili che ho dichiarato al quale però non ho ancora assegnato un valore.
  */
 
 /* ESERCIZIO 2
@@ -22,6 +22,7 @@ NULL : è UN datatype che rilevo nelle variabili che ho dichiarato al quale per�
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 let name;
 name = "Riccardo";
 
@@ -30,6 +31,7 @@ name = "Riccardo";
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log(12 + 20);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
