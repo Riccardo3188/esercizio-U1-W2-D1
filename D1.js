@@ -10,14 +10,20 @@ REGOLE
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
-
-/* SCRIVI QUI LA TUA RISPOSTA */ 
+/* -STRING : è una sequeza di caretteri e può essere alfanumerico.
+-NUMBER : è un tipo di dato nuerico , trattasi quindi di una sequenza di numeri, possono essere sia interi che decimali.
+BOOLEAN : è un tipo di dato che può avere solo due valori o VERO O FALSO quindi TRUE or FALSE.
+UNDEFINED : rappresenta un valore nullo , quindi l'assenza di un valore.
+NULL : è UN datatype che rilevo nelle variabili che ho dichiarato al quale però non ho ancora assegnato un valore.
+ */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let name;
+name = "Riccardo";
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
