@@ -52,6 +52,9 @@ x = "12";
 /* SCRIVI QUI LA TUA RISPOSTA */
 const myName = "Francone";
 
+console.log(myName);
+myName = "Riccardo";
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
